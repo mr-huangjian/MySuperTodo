@@ -1,0 +1,21 @@
+
+<view style="height: 10px;"></view>
+<van-cell-group inset>
+  <van-cell title="单元格" value="内容" />
+</van-cell-group>
+
+<view style="height: 10px;"></view>
+<van-cell-group inset>
+  <van-cell>
+    <view>1</view>
+    <view>2</view>
+  </van-cell>
+</van-cell-group>
+
+<view style="height: 10px;"></view>
+<van-cell-group inset>
+  <van-cell>
+    <view>1</view>
+    <view>2</view>
+  </van-cell>
+</van-cell-group>

@@ -1,0 +1,11 @@
+/* pages/test/test.wxss */
+
+page {
+    background-color: aquamarine;
+}
+
+/* 给页面设置背景颜色 */
+/* .page-container {
+    min-height: 100vh;
+    background-color: #eaf1ff;
+} */
